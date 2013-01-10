@@ -1,0 +1,10 @@
+{
+  "name": "motion",
+  "description": "motion component system",
+  "version": "0.0.1",
+  "keywords": ["game", "motion", "component", "system"],  
+  "dependencies": {
+    "entity/vector": "*"
+  },
+  "scripts": ["index.js"]
+}
